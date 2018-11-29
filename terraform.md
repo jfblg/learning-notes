@@ -91,7 +91,7 @@ output "first_output" {
 ### Input variables
 
 you are prompted to enter their values during the execution
-```buildoutcfg
+```
 variable variable_name {
 }
 # - there is no "default" defined in the variable_name i.e. you will be promted to enter the value during the execution
